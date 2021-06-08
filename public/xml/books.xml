@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Credit of shortening amazon links goes to https://bitly.com/ 
+Thanks Bitly! -->
+<books>
+    <book>
+        <book-title>3001: The Final Odyssey</book-title>
+        <book-url>https://amzn.to/2rojVjy</book-url>
+        <read-year>2014</read-year>
+    </book>
+    <book>
+        <book-title>Data Structures (Revised First Edition)</book-title>
+        <book-url>https://read.amazon.in/kp/embed?asin=B00JACCBI8</book-url>
+        <read-year>2018</read-year>
+    </book>
+    <book>
+        <book-title>The Alchemist</book-title>
+        <book-url>https://read.amazon.in/kp/embed?asin=B00U6SFUSS</book-url>
+        <read-year>2018</read-year>
+    </book>
+    <book>
+        <book-title>The 3 Mistakes of My Life</book-title>
+        <book-url>https://www.amazon.in/3-Mistakes-My-Life/dp/8129135515/</book-url>
+        <read-year>2019</read-year>
+    </book>
+    <book>
+        <book-title>Programming in C</book-title>
+        <book-url>https://www.amazon.in/Programming-C-Ajay-Mittal/dp/8131729346/</book-url>
+        <read-year>2017</read-year>
+    </book>
+    <book>
+        <book-title>The Immortals of Meluha (Shiva Trilogy)</book-title>
+        <book-url>https://read.amazon.in/kp/embed?asin=B008593O8S</book-url>
+        <read-year>2019</read-year>
+    </book>
+    <book>
+        <book-title>Revolution Twenty 20: Love. Corruption. Ambition</book-title>
+        <book-url>https://read.amazon.in/kp/embed?asin=B013VO03LW</book-url>
+        <read-year>2016</read-year>
+    </book>
+    <book>
+        <book-title>I Too Had a Love Story</book-title>
+        <book-url>https://read.amazon.in/kp/embed?asin=B06XY2WCHM</book-url>
+        <read-year>2017</read-year>
+    </book>
+    <book>
+        <book-title>Till The Last Breath</book-title>
+        <book-url>https://read.amazon.in/kp/embed?asin=B06XYQR558</book-url>
+        <read-year>2018</read-year>
+    </book>
+    <book>
+        <book-title>The Fault in our Stars</book-title>
+        <book-url>https://amzn.in/c6BkDHi</book-url>
+        <read-year>2014</read-year>
+    </book>
+    <book>
+        <book-title>Fundamentals of Database System</book-title>
+        <book-url>https://www.amazon.in/Fundamentals-Database-System-Elmasri-Ramez/dp/933258270X/</book-url>
+        <read-year>2020</read-year>
+    </book>
+    <book>
+        <book-title>The Monk Who Sold His Ferrari</book-title>
+        <book-url>https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/817992162X/</book-url>
+        <read-year>2020</read-year>
+    </book>
+</books>
